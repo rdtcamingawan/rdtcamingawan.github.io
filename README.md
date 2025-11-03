@@ -10,4 +10,3 @@ This map app is designed for **easy locating** of NAMRIA's 1:50,000 Topographic 
 The base map data is provided by the National Mapping and Resource Information Authority (**NAMRIA**).
 
 * **NAMRIA Downloads Page (Public):** [Find NAMRIA Topographic Maps](https://www.namria.gov.ph/products.aspx#topo&gsc.tab=0)
-* **AMH Employee Access (Georeferenced Maps):** [AMH Internal Access Link](https://tinyurl.com/mt7c34b5)
